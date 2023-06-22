@@ -2,9 +2,9 @@
 <h3 align="center">A fresh Computer Science graduate</h3>
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
-- 🔭 I’m currently working on **Deep Learning application**
+- 🔭 I’m currently working on **Front end development**
 
-- 🌱 I’m currently learning **React, Mobile Development**
+- 🌱 I’m currently learning **Vue.js, Nuxt.js*
 
 - 📫 How to reach me **boshraalija@gmail.com**
 
